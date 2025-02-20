@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cars
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cars\ here.\r\n\r\n\ @author\:\ Tiago\ Ramada(202200354)\ &\ Bernardo\ Vaz(202200278)\r\n\ @email\:\ Tiago(202200354@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ \ Bernardo(202200278@estudantes.ips.pt)\ \ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Cars()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cars\r\n
+comment2.params=car
+comment2.target=void\ add(Car)
+comment3.params=brand\ plate\ isHybrid\ fuelUse\ capacity\ hybridFuelCapacity\ hybridCapacity
+comment3.target=void\ buyCar(java.lang.String,\ java.lang.String,\ boolean,\ int,\ int,\ int,\ int)
+comment4.params=car
+comment4.target=void\ sellCar(Car)
+comment5.params=plate
+comment5.target=Car\ getCar(java.lang.String)
+comment6.params=car\ kms
+comment6.target=void\ makeTrip(java.lang.String,\ int)
+comment7.params=plate\ value
+comment7.target=void\ fillCarFuelDeposit(java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ showCarsThatNeedInspection()
+comment9.params=plate\ min\ fastCharge
+comment9.target=void\ chargeCar(java.lang.String,\ int,\ boolean)
+numComments=10

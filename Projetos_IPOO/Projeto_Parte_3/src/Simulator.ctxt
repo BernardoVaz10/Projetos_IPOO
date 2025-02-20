@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Simulator
+comment0.text=\r\n\ This\ class\ Simulator\ represents\ a\ simulator.\r\n\r\n\ @author\:\ Tiago\ Ramada(202200354)\ &\ Bernardo\ Vaz(202200278)\r\n\ @email\:\ Tiago(202200354@estudantes.ips.pt)\r\n\ \ \ \ \ \ \ \ \ Bernardo(202200278@estudantes.ips.pt)\ \r\n\ @version\ 1\r\n
+comment1.params=steps
+comment1.target=Simulator(int)
+comment2.params=
+comment2.target=void\ createMusicians()
+comment3.params=m\ family
+comment3.target=void\ createInstruments(Musician,\ InstrumentsFamily)
+comment4.params=
+comment4.target=void\ createMaestros()
+comment5.params=
+comment5.target=void\ createMusics()
+comment6.params=
+comment6.target=void\ concertBarroque()
+comment7.params=music
+comment7.target=void\ playSong(Music)
+comment8.params=
+comment8.target=void\ startSimulator()
+numComments=9

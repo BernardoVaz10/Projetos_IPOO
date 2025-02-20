@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InstrumentsFamily
+comment0.text=\n\ This\ class\ represents\ the\ family\ of\ the\ instrument,\ like\ wind,\ keyboard,\n\ string,\ percussion.\n\n\ @author\:\ Tiago\ Ramada(202200354)\ &\ Bernardo\ Vaz(202200278)\n\ @email\:\ Tiago(202200354@estudantes.ips.pt)\n\ \ \ \ \ \ \ \ \ Bernardo(202200278@estudantes.ips.pt)\n\ @version\ 1\n
+comment1.params=family
+comment1.target=InstrumentsFamily(InstrumentsFamily.Families)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ InstrumentsFamily.\n\ \n\ @param\ family\ the\ family\ of\ the\ instrument\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Get\ the\ name\ of\ the\ family.\n\ \n\ @return\ the\ name\ of\ the\ family\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\n\ Set\ the\ name\ of\ the\ family.\n\ \n\ @param\ name\ the\ new\ name\ for\ the\ family\n
+comment4.params=
+comment4.target=InstrumentsFamily.Families\ getFamily()
+comment4.text=\n\ Get\ the\ family\ of\ instruments.\n\ \n\ @return\ the\ family\ of\ instruments\n
+comment5.params=family
+comment5.target=void\ setFamily(InstrumentsFamily.Families)
+comment5.text=\n\ Set\ the\ family\ of\ instruments.\n\ \n\ @param\ family\ the\ new\ family\ of\ instruments\n
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CarDetails
+comment1.params=brand\ plate
+comment1.target=CarDetails(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CarDetails\r\n
+comment2.params=
+comment2.target=int\ getDate()
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=
+comment4.target=java.lang.String\ getPlate()
+numComments=5

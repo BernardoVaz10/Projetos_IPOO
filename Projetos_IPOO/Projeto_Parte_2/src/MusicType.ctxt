@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MusicType
+comment0.text=\n\ This\ class\ represents\ the\ music\ type,\ like\ medieval,\ renaissance,\ baroque,\n\ classical\ romantic,\ century\ 20\ &\ 21.\n\n\ @author\:\ Tiago\ Ramada(202200354)\ &\ Bernardo\ Vaz(202200278)\n\ @email\:\ Tiago(202200354@estudantes.ips.pt)\n\ \ \ \ \ \ \ \ \ Bernardo(202200278@estudantes.ips.pt)\n\ @version\ 1\n
+comment1.params=type
+comment1.target=MusicType(MusicType.Types)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MusicType.\n\ \n\ @param\ type\ the\ type\ of\ music\ represented\ by\ this\ object\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ \n\ Gets\ the\ name\ of\ the\ music\ type.\n\ \n\ @return\ the\ name\ of\ the\ music\ type\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\n\ \n\ Sets\ the\ name\ of\ the\ music\ type.\n\ \n\ @param\ name\ the\ new\ name\ of\ the\ music\ type\n
+comment4.params=
+comment4.target=MusicType.Types\ getType()
+comment4.text=\n\ \n\ Gets\ the\ type\ of\ the\ music\ type.\n\ \n\ @return\ the\ type\ of\ the\ music\ type\n
+numComments=5
